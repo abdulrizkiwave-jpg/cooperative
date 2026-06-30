@@ -7,34 +7,7 @@ function App() {
   );
 }
 
-export default App;            </p>
-          </div>
-
-          <div className="card">
-            <h3>Pembiayaan Hijau</h3>
-            <p>
-              Skema pembiayaan untuk usaha berkelanjutan seperti energi bersih,
-              pertanian hijau, pengelolaan limbah, dan bisnis ramah lingkungan.
-            </p>
-          </div>
-
-          <div className="card">
-            <h3>Green Building</h3>
-            <p>
-              Pengembangan kawasan, kantor, hotel, taman, dan fasilitas publik
-              dengan konsep hemat energi dan rendah emisi.
-            </p>
-          </div>
-
-          <div className="card">
-            <h3>Green Entertainment</h3>
-            <p>
-              Kawasan hiburan modern yang tetap membawa konsep hijau, edukatif,
-              estetis, dan memiliki nilai ekonomi tinggi.
-            </p>
-          </div>
-        </div>
-      </section>
+export default App;      </section>
 
       <section className="section">
         <span className="sectionLabel">Program Prioritas</span>
