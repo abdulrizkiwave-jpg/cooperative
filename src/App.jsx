@@ -7,34 +7,7 @@ function App() {
   );
 }
 
-export default App;          <div className="glassCard">
-            <h2>Green Cooperative</h2>
-            <p>Karbon • Energi • Pertanian • Pembiayaan • Green Building</p>
-          </div>
-        </div>
-      </section>
-
-      <section id="tentang" className="section">
-        <span className="sectionLabel">Tentang Kami</span>
-        <h2>Koperasi untuk Transisi Hijau Indonesia</h2>
-        <p>
-          Bhumi Atlas dirancang sebagai koperasi modern yang membantu anggota
-          mengembangkan usaha ramah lingkungan, meningkatkan nilai ekonomi
-          komunitas, dan membuka akses terhadap peluang ekonomi karbon.
-        </p>
-      </section>
-
-      <section id="layanan" className="section dark">
-        <span className="sectionLabel">Layanan Utama</span>
-        <h2>Ekosistem Bhumi Atlas</h2>
-
-        <div className="cards">
-          <div className="card">
-            <h3>Sertifikasi Karbon</h3>
-            <p>
-              Agregasi proyek karbon masyarakat, UMKM, petani, dan komunitas
-              agar lebih mudah masuk ke ekosistem ekonomi karbon.
-            </p>
+export default App;            </p>
           </div>
 
           <div className="card">
