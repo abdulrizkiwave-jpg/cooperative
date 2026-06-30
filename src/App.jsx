@@ -1,40 +1,13 @@
 function App() {
   return (
-    <div className="page">
-      <header className="navbar">
-        <div className="brand">
-          <span className="logoMark">BA</span>
-          <div>
-            <h3>Bhumi Atlas</h3>
-            <p>Koperasi Hijau</p>
-          </div>
-        </div>
+    <div>
+      <h1>Koperasi Hijau Bhumi Atlas</h1>
+      <p>Landing Page berhasil berjalan.</p>
+    </div>
+  );
+}
 
-        <nav>
-          <a href="#tentang">Tentang</a>
-          <a href="#layanan">Layanan</a>
-          <a href="#kontak">Kontak</a>
-        </nav>
-      </header>
-
-      <section className="hero">
-        <div className="heroText">
-          <span className="eyebrow">Koperasi Hijau Masa Depan</span>
-          <h1>Membangun Ekonomi Rakyat Berbasis Keberlanjutan</h1>
-          <p>
-            Koperasi Hijau Bhumi Atlas hadir untuk menghubungkan masyarakat,
-            UMKM, petani, dan pelaku usaha dengan ekosistem ekonomi hijau,
-            sertifikasi karbon, pembiayaan hijau, dan green building.
-          </p>
-
-          <div className="heroButtons">
-            <a className="btnPrimary" href="#kontak">Gabung Sekarang</a>
-            <a className="btnSecondary" href="#layanan">Lihat Program</a>
-          </div>
-        </div>
-
-        <div className="heroVisual">
-          <div className="glassCard">
+export default App;          <div className="glassCard">
             <h2>Green Cooperative</h2>
             <p>Karbon • Energi • Pertanian • Pembiayaan • Green Building</p>
           </div>
